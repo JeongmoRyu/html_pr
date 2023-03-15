@@ -5,6 +5,7 @@ practice for making website
 
 - [practice](https://github.com/JeongmoRyu/html_pr/tree/main/practice)
     - [web_tag](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_tag.md)
+    - [web_tag2](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_tag2.md)
 
 
 
