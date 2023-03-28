@@ -11,6 +11,7 @@ practice for making website
     - [web_importancy_level](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_importancy_level.md)
     - [web_elements_inheritance](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_elements_inheritance.md)
     - [web_semantic_tag_pr](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_semantic_tag_pr.md)
+    - [web_css_combinator](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_css_combinator.md)
 
     
 
