@@ -13,6 +13,8 @@ practice for making website
     - [web_semantic_tag_pr](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_semantic_tag_pr.md)
     - [web_css_combinator](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_css_combinator.md)
     - [web_pr](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_pr.md)
+    - [web_css_alpha](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_css_alpha.md)
+
 
     
 
