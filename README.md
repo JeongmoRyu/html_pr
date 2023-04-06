@@ -17,6 +17,8 @@ practice for making website
     - [web_chessboard](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_chessboard.md)
     - [web_chessboard_simulation](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_chessboard_simulation.md)
     - [web_layout](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_layout.md)
+    - [web_flexbox_pr](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_flexbox_pr.md)
+
 
 
 
