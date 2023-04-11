@@ -20,6 +20,8 @@ practice for making website
     - [web_flexbox_pr](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_flexbox_pr.md)
     - [web_flexbox_box](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_flexbox_box.md)
     - [web_bootstrap_grid](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_bootstrap_grid.md)
+    - [web_bootstrap_class](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_bootstrap_class.md)
+
 
 
 
