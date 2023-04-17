@@ -23,6 +23,8 @@ practice for making website
     - [web_bootstrap_class](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_bootstrap_class.md)
     - [web_making_personal_login_system](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_making_personal_login_system.md)
     - [web_float](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_float.md)
+    - [django_pr_start](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_pr_start.md)
+
 
 
 
