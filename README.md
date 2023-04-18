@@ -24,6 +24,7 @@ practice for making website
     - [web_making_personal_login_system](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_making_personal_login_system.md)
     - [web_float](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_float.md)
     - [django_pr_start](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_pr_start.md)
+    - [django_variable_routing](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_variable_routing.md)
 
 
 
