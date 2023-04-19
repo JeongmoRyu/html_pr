@@ -25,6 +25,7 @@ practice for making website
     - [web_float](https://github.com/JeongmoRyu/html_pr/blob/main/practice/web_float.md)
     - [django_pr_start](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_pr_start.md)
     - [django_variable_routing](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_variable_routing.md)
+    - [django_make_freetalk](https://github.com/JeongmoRyu/html_pr/blob/main/practice/django_make_freetalk.md)
 
 
 
